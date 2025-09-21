@@ -31,7 +31,7 @@ You can either clone the repository using Git or download it as a ZIP file.
 * **Option A: Clone with Git (Recommended)**
     Open your terminal or command prompt and run this command:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/AlgoArtsdev/Movie-genre-explorer.git](https://github.com/AlgoArtsdev/Movie-genre-explorer.git)
     ```
 
 * **Option B: Download ZIP**
@@ -40,7 +40,7 @@ You can either clone the repository using Git or download it as a ZIP file.
 **3. Navigate to the Project Directory:**
 Using your terminal, move into the folder you just cloned or unzipped:
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd Movie-genre-explorer
 ```
 
 **4. Install Required Libraries:**
@@ -54,5 +54,5 @@ This application requires the movies.csv file from the MovieLens Small dataset. 
 
 **6. Run the Application:**
 ```bash
-python your_script_name.py
+python Movieapp.py
 ```
